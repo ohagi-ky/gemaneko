@@ -1,6 +1,8 @@
-# discordbot gemaneko
-Discordのゲーム参加管理用Bot **gemaneko(ゲマネコ)** です。
+# discordbot 【gemaneko】
+Discordのゲーム参加管理用Bot **gemaneko(ゲマネコ)** です🐾
 コマンドを使ってゲームの登録・参加・管理ができます。
+
+<img src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3584262/7693055d-6203-4503-9cda-113fa37e864e.png" width="25%">
 
 # 機能紹介
 /コマンドを打つことでgemanekoに指示を出すことが出来ます
