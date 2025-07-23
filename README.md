@@ -18,9 +18,9 @@ Discordのゲーム参加管理用Bot **gemaneko(ゲマネコ)** です🐾<br>
 | `/start <ゲーム名>`| ゲームを開始して参加者を全員削除します      |
 | `/help`           | ヘルプメッセージを表示します             |
 
-# gemanekoをdiscordサーバーに参加させる方法
+## gemanekoをdiscordサーバーに参加させる方法
 https://discord.com/oauth2/authorize?client_id=1396323528814497937&permissions=133120&integration_type=0&scope=bot
 からお使いください
 
-# Qiita URL(より詳しい説明等はこちらから！)
+## Qiita URL(より詳しい説明等はこちらから！)
 https://qiita.com/OhaGi_/private/f3ca0c144aca495344a7
