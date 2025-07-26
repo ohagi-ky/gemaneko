@@ -22,5 +22,5 @@ Discordのゲーム参加管理用Bot **gemaneko(ゲマネコ)** です🐾<br>
 https://discord.com/oauth2/authorize?client_id=1396323528814497937&permissions=133120&integration_type=0&scope=bot
 からお使いください
 
-## Qiita URL(より詳しい説明等はこちらから！)
+## Qiita URL
 https://qiita.com/OhaGi_/private/f3ca0c144aca495344a7
